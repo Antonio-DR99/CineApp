@@ -1,0 +1,4326 @@
+[2026-02-04 12:50:13] Method: POST Action: create_cinema POST: Array
+(
+    [name] => Test Cinema
+    [address] => Test Address
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:51:19] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:51:21] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:51:23] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:51:35] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:51:36] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:51:40] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:53:53] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:55:09] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:55:11] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:55:11] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:55:12] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:55:30] Method: POST Action: delete POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+JSON Input: Array
+(
+    [table] => cinemas
+    [id] => 1
+)
+
+[2026-02-04 12:55:30] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:55:31] Method: POST Action: delete POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+JSON Input: Array
+(
+    [table] => cinemas
+    [id] => 3
+)
+
+[2026-02-04 12:55:31] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:55:33] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:55:35] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:55:35] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:57:16] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:57:27] Method: POST Action: create_cinema POST: Array
+(
+    [action] => create_cinema
+    [name] => kinepolis granada 
+    [address] => Calle Principal 123
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:57:28] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:57:55] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:59:09] Method: POST Action: create_actor POST: Array
+(
+    [action] => create_actor
+    [name] => Leonardo DiCaprio
+)
+ FILES: Array
+(
+    [photo] => Array
+        (
+            [name] => 03.jpg
+            [full_path] => 03.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpB1B5.tmp
+            [error] => 0
+            [size] => 154186
+        )
+
+)
+
+[2026-02-04 12:59:11] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 12:59:54] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:00:22] Method: POST Action: create_movie POST: Array
+(
+    [action] => create_movie
+    [title] => Inception
+    [synopsis] => Dom Cobb es un experto en robar secretos del subconsciente mientras las personas sueñan. Recibe una misión casi imposible: implantar una idea en la mente de alguien, en lugar de robarla.
+    [duration_min] => 148
+    [genre] => Ciencia ficción / Acción / Thriller
+    [release_date] => 2026-02-12
+    [country] => Estados Unidos
+)
+ FILES: Array
+(
+    [poster] => Array
+        (
+            [name] => 02.jpg
+            [full_path] => 02.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpCEBF.tmp
+            [error] => 0
+            [size] => 155573
+        )
+
+)
+
+[2026-02-04 13:00:23] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:00:37] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:00:38] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:00:39] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:00:41] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:00:43] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:00:57] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:00] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:02] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:02] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:03] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:05] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:17] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:25] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:26] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:27] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:28] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:33] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:36] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:39] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:42] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:49] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:53] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 4
+    [movie_id] => 1
+    [start_time] => 2026-02-04T13:01
+    [price] => 9.00
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:01:55] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:09] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:11] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:15] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:15] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:16] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:19] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:34] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:35] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:36] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:38] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:38] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:40] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:41] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:44] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:45] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:46] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:02:47] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:05] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:05] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:06] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:15] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:27] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:29] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:30] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:30] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:32] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:33] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:35] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:40] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:42] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:43] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:49] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:51] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:52] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:03:58] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:06:06] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:06:09] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:06:10] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:06:12] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:06:18] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:07:23] Method: POST Action: create_movie POST: Array
+(
+    [action] => create_movie
+    [title] => Parasite
+    [synopsis] => La familia Kim, pobre y desempleada, se infiltra poco a poco en la vida de la acaudalada familia Park, pero lo que comienza como un plan ingenioso termina en caos y tragedia.
+    [duration_min] => 132
+    [genre] => Drama / Thriller / Comedia negra
+    [release_date] => 2026-02-27
+    [country] => Corea del Sur
+)
+ FILES: Array
+(
+    [poster] => Array
+        (
+            [name] => 04.jpg
+            [full_path] => 04.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php3A00.tmp
+            [error] => 0
+            [size] => 372054
+        )
+
+)
+
+[2026-02-04 13:07:24] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:07:26] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:07:27] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:07:29] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:07:35] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:07:39] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:07:42] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:07:44] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:10:08] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:10:10] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:10:11] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:10:13] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:10:35] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:10:48] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 7
+    [movie_id] => 2
+    [start_time] => 2026-02-25T16:10
+    [price] => 9.00
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:10:49] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:10:51] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:10:53] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:10:58] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:11:01] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:11:02] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:11:03] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:11:11] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:12:16] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:12:41] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:12:43] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:12:51] Method: POST Action: null POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+JSON Input: 
+[2026-02-04 13:13:03] Method: POST Action: delete POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+JSON Input: Array
+(
+    [table] => rooms
+    [id] => 7
+)
+
+[2026-02-04 13:13:05] Method: POST Action: delete POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+JSON Input: Array
+(
+    [table] => rooms
+    [id] => 4
+)
+
+[2026-02-04 13:13:23] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:13:25] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-04 13:13:28] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:26:38] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:26:41] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:26:42] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:26:43] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:26:45] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:26:45] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:26:46] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:26:48] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:26:48] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:27:00] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:27:02] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:27:05] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:27:06] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:27:06] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:39:03] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:39:15] Method: POST Action: create_cinema POST: Array
+(
+    [action] => create_cinema
+    [name] => cine Prueba 1
+    [address] => calle prueba 1
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:39:17] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:39:24] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:39:25] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:39:27] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:39:40] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:39:49] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:42:40] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:42:42] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:42:44] Method: POST Action: null POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+JSON Input: 
+[2026-02-10 08:43:16] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:43:19] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:43:22] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:43:25] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:43:45] Method: POST Action: null POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+JSON Input: 
+[2026-02-10 08:45:14] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:45:22] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:45:38] Method: POST Action: create_room POST: Array
+(
+    [action] => create_room
+    [cinema_id] => 7
+    [name] => sala 1 
+    [capacity] => 50
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:45:42] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:45:43] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:45:49] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:45:50] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:45:51] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:45:53] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:46:06] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 9
+    [movie_id] => 2
+    [start_time] => 2026-02-10T11:48
+    [price] => 10
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:46:07] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:46:11] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:46:14] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:46:20] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:50:40] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:50:45] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:50:48] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:50:51] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:51:03] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 9
+    [movie_id] => 2
+    [start_time] => 2026-02-17T12:54
+    [price] => 12
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:51:03] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:51:21] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:51:22] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:51:27] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:51:31] Method: POST Action: delete POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+JSON Input: Array
+(
+    [table] => showtimes
+    [id] => 4
+)
+
+[2026-02-10 08:51:31] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:51:36] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:51:38] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:51:49] Method: POST Action: create_room POST: Array
+(
+    [action] => create_room
+    [cinema_id] => 7
+    [name] => sala 2
+    [capacity] => 20
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:51:53] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:51:53] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:51:54] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:51:55] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:51:56] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:52:07] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 10
+    [movie_id] => 1
+    [start_time] => 2026-02-10T11:55
+    [price] => 12
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:52:07] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:52:53] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:52:57] Method: POST Action: delete POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+JSON Input: Array
+(
+    [table] => cinemas
+    [id] => 4
+)
+
+[2026-02-10 08:52:57] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:52:59] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:53:03] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:53:07] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:53:09] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:53:19] Method: POST Action: create_room POST: Array
+(
+    [action] => create_room
+    [cinema_id] => 5
+    [name] => Sala Vip 
+    [capacity] => 100
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:53:22] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:53:30] Method: POST Action: create_room POST: Array
+(
+    [action] => create_room
+    [cinema_id] => 5
+    [name] => Sala 3D
+    [capacity] => 100
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:53:33] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:53:34] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:53:35] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:53:38] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:53:45] Method: POST Action: create_room POST: Array
+(
+    [action] => create_room
+    [cinema_id] => 6
+    [name] => Sala 3D
+    [capacity] => 100
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:53:48] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:53:54] Method: POST Action: create_room POST: Array
+(
+    [action] => create_room
+    [cinema_id] => 6
+    [name] => Sala VIP
+    [capacity] => 100
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:53:56] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:53:58] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:54:00] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:54:03] Method: POST Action: delete POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+JSON Input: Array
+(
+    [table] => rooms
+    [id] => 9
+)
+
+[2026-02-10 08:54:05] Method: POST Action: delete POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+JSON Input: Array
+(
+    [table] => rooms
+    [id] => 9
+)
+
+[2026-02-10 08:54:07] Method: POST Action: delete POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+JSON Input: Array
+(
+    [table] => rooms
+    [id] => 10
+)
+
+[2026-02-10 08:54:08] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:54:10] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:54:20] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:54:25] Method: POST Action: delete POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+JSON Input: Array
+(
+    [table] => cinemas
+    [id] => 7
+)
+
+[2026-02-10 08:54:25] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:54:26] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:54:27] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:54:35] Method: POST Action: create_room POST: Array
+(
+    [action] => create_room
+    [cinema_id] => 6
+    [name] => Sala Normal
+    [capacity] => 100
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:54:37] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:54:43] Method: POST Action: create_room POST: Array
+(
+    [action] => create_room
+    [cinema_id] => 5
+    [name] => Sala Normal
+    [capacity] => 100
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:54:44] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:54:49] Method: POST Action: create_room POST: Array
+(
+    [action] => create_room
+    [cinema_id] => 2
+    [name] => Sala Normal
+    [capacity] => 100
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:54:52] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:54:53] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:54:54] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:54:55] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:55:00] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:55:00] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:55:02] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:57:47] Method: POST Action: create_movie POST: Array
+(
+    [action] => create_movie
+    [title] => Interstellar
+    [synopsis] => Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad ante la crisis en la Tierra.
+    [duration_min] => 169
+    [genre] => Ciencia ficción, drama
+    [release_date] => 2026-02-10
+    [country] => Estados Unidos
+)
+ FILES: Array
+(
+    [poster] => Array
+        (
+            [name] => interestellar.jpg
+            [full_path] => interestellar.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpCC4B.tmp
+            [error] => 0
+            [size] => 455175
+        )
+
+)
+
+[2026-02-10 08:57:47] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 08:59:02] Method: POST Action: create_movie POST: Array
+(
+    [action] => create_movie
+    [title] => Titanic
+    [synopsis] => Una historia de amor entre dos jóvenes de clases sociales distintas a bordo del famoso transatlántico en su viaje inaugural.
+    [duration_min] => 195
+    [genre] => Drama, romance
+    [release_date] => 2026-02-18
+    [country] => Estados Unidos
+)
+ FILES: Array
+(
+    [poster] => Array
+        (
+            [name] => titanic.jpg
+            [full_path] => titanic.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpF4CE.tmp
+            [error] => 0
+            [size] => 159120
+        )
+
+)
+
+[2026-02-10 08:59:02] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:00:15] Method: POST Action: create_movie POST: Array
+(
+    [action] => create_movie
+    [title] => El caballero oscuro
+    [synopsis] => Batman se enfrenta al Joker, un criminal que siembra el caos en Gotham y pone a prueba los límites del héroe.
+    [duration_min] => 152
+    [genre] => Acción, crimen, drama
+    [release_date] => 2026-03-19
+    [country] => Estados Unidos
+)
+ FILES: Array
+(
+    [poster] => Array
+        (
+            [name] => elcaballerooscuro.jpg
+            [full_path] => elcaballerooscuro.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php10ED.tmp
+            [error] => 0
+            [size] => 37941
+        )
+
+)
+
+[2026-02-10 09:00:15] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:01:23] Method: POST Action: create_movie POST: Array
+(
+    [action] => create_movie
+    [title] => Avatar
+    [synopsis] => Un exmarine se adentra en el mundo de Pandora y se une a los Na’vi en la defensa de su planeta.
+    [duration_min] => 162
+    [genre] => Ciencia ficción, aventura
+    [release_date] => 2026-05-14
+    [country] => Estados Unidos
+)
+ FILES: Array
+(
+    [poster] => Array
+        (
+            [name] => avatar.jpg
+            [full_path] => avatar.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php1994.tmp
+            [error] => 0
+            [size] => 66429
+        )
+
+)
+
+[2026-02-10 09:01:23] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:02:33] Method: POST Action: create_movie POST: Array
+(
+    [action] => create_movie
+    [title] => Gladiator
+    [synopsis] => Un general romano traicionado busca venganza como gladiador en la arena.
+    [duration_min] => 155
+    [genre] => Acción, drama histórico
+    [release_date] => 2026-08-19
+    [country] => Estados Unidos / Reino Unido
+)
+ FILES: Array
+(
+    [poster] => Array
+        (
+            [name] => gladietor.jpg
+            [full_path] => gladietor.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php2A2B.tmp
+            [error] => 0
+            [size] => 136178
+        )
+
+)
+
+[2026-02-10 09:02:33] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:03:34] Method: POST Action: create_movie POST: Array
+(
+    [action] => create_movie
+    [title] => Frozen
+    [synopsis] => Dos hermanas luchan por salvar su reino de un invierno eterno causado por poderes mágicos.
+    [duration_min] => 102
+    [genre] => Animación, aventura, musical
+    [release_date] => 2026-06-25
+    [country] => Estados Unidos
+)
+ FILES: Array
+(
+    [poster] => Array
+        (
+            [name] => frozen.jpg
+            [full_path] => frozen.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php1B52.tmp
+            [error] => 0
+            [size] => 185613
+        )
+
+)
+
+[2026-02-10 09:03:34] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:04:33] Method: POST Action: create_movie POST: Array
+(
+    [action] => create_movie
+    [title] => Jurassic Park
+    [synopsis] => Jurassic Park
+    [duration_min] => 127
+    [genre] => Aventura, ciencia ficción
+    [release_date] => 2026-06-24
+    [country] => Estados Unidos
+)
+ FILES: Array
+(
+    [poster] => Array
+        (
+            [name] => jurassicpark.jpg
+            [full_path] => jurassicpark.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php258.tmp
+            [error] => 0
+            [size] => 148014
+        )
+
+)
+
+[2026-02-10 09:04:34] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:05:56] Method: POST Action: create_movie POST: Array
+(
+    [action] => create_movie
+    [title] => El Señor de los Anillos: La Comunidad del Anillo
+    [synopsis] => Un hobbit inicia una misión para destruir un anillo que puede condenar al mundo a la oscuridad.
+    [duration_min] => 178
+    [genre] => Fantasía, aventura
+    [release_date] => 2026-08-13
+    [country] => Nueva Zelanda / Estados Unidos
+)
+ FILES: Array
+(
+    [poster] => Array
+        (
+            [name] => elseñordelosanillos.jpg
+            [full_path] => elseñordelosanillos.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php45F4.tmp
+            [error] => 0
+            [size] => 149443
+        )
+
+)
+
+[2026-02-10 09:05:56] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:05:59] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:06:50] Method: POST Action: create_actor POST: Array
+(
+    [action] => create_actor
+    [name] => Brad Pitt
+)
+ FILES: Array
+(
+    [photo] => Array
+        (
+            [name] => Brad Pitt.jpg
+            [full_path] => Brad Pitt.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php17DC.tmp
+            [error] => 0
+            [size] => 76535
+        )
+
+)
+
+[2026-02-10 09:06:50] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:07:14] Method: POST Action: create_actor POST: Array
+(
+    [action] => create_actor
+    [name] => Tom Hanks
+)
+ FILES: Array
+(
+    [photo] => Array
+        (
+            [name] => Tom Hanks.jpg
+            [full_path] => Tom Hanks.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php757E.tmp
+            [error] => 0
+            [size] => 80792
+        )
+
+)
+
+[2026-02-10 09:07:14] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:07:38] Method: POST Action: create_actor POST: Array
+(
+    [action] => create_actor
+    [name] => Johnny Depp
+)
+ FILES: Array
+(
+    [photo] => Array
+        (
+            [name] => Johnny Depp.jpg
+            [full_path] => Johnny Depp.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpD2A2.tmp
+            [error] => 0
+            [size] => 53364
+        )
+
+)
+
+[2026-02-10 09:07:38] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:08:04] Method: POST Action: create_actor POST: Array
+(
+    [action] => create_actor
+    [name] => Robert Downey Jr.
+)
+ FILES: Array
+(
+    [photo] => Array
+        (
+            [name] => Robert Downey Jr..jpg
+            [full_path] => Robert Downey Jr..jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php37E5.tmp
+            [error] => 0
+            [size] => 75066
+        )
+
+)
+
+[2026-02-10 09:08:04] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:08:28] Method: POST Action: create_actor POST: Array
+(
+    [action] => create_actor
+    [name] => Will Smith
+)
+ FILES: Array
+(
+    [photo] => Array
+        (
+            [name] => Will Smith.jpg
+            [full_path] => Will Smith.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php94CB.tmp
+            [error] => 0
+            [size] => 66601
+        )
+
+)
+
+[2026-02-10 09:08:28] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:08:48] Method: POST Action: create_actor POST: Array
+(
+    [action] => create_actor
+    [name] => Denzel Washington
+)
+ FILES: Array
+(
+    [photo] => Array
+        (
+            [name] => Denzel Washington.jpg
+            [full_path] => Denzel Washington.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpE4E0.tmp
+            [error] => 0
+            [size] => 81587
+        )
+
+)
+
+[2026-02-10 09:08:48] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:09:07] Method: POST Action: create_actor POST: Array
+(
+    [action] => create_actor
+    [name] => Christian Bale
+)
+ FILES: Array
+(
+    [photo] => Array
+        (
+            [name] => Christian Bale.jpg
+            [full_path] => Christian Bale.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php2EDB.tmp
+            [error] => 0
+            [size] => 41995
+        )
+
+)
+
+[2026-02-10 09:09:07] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:09:34] Method: POST Action: create_actor POST: Array
+(
+    [action] => create_actor
+    [name] => Ryan Gosling
+)
+ FILES: Array
+(
+    [photo] => Array
+        (
+            [name] => Ryan Gosling.jpg
+            [full_path] => Ryan Gosling.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php97C7.tmp
+            [error] => 0
+            [size] => 57941
+        )
+
+)
+
+[2026-02-10 09:09:34] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:10:04] Method: POST Action: create_actor POST: Array
+(
+    [action] => create_actor
+    [name] => Keanu Reeves
+)
+ FILES: Array
+(
+    [photo] => Array
+        (
+            [name] => Keanu Reeves.jpg
+            [full_path] => Keanu Reeves.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpC7B.tmp
+            [error] => 0
+            [size] => 89271
+        )
+
+)
+
+[2026-02-10 09:10:04] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:10:06] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:10:15] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:10:15] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:10:16] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:10:18] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:10:19] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:10:19] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:10:20] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:10:23] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:10:25] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:10:26] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:10:40] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 17
+    [movie_id] => 1
+    [start_time] => 2026-02-10T09:10
+    [price] => 10
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:10:40] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:10:42] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:10:53] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:11:12] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 3
+    [movie_id] => 6
+    [start_time] => 2026-02-10T14:16
+    [price] => 15
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:11:12] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:11:14] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:11:27] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 8
+    [movie_id] => 7
+    [start_time] => 2026-02-10T15:15
+    [price] => 8
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:11:27] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:11:30] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:11:47] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 17
+    [movie_id] => 9
+    [start_time] => 2026-02-10T11:15
+    [price] => 10
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:11:47] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:11:58] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:11:59] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:00] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:02] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:04] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:05] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:06] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:08] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:22] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 11
+    [movie_id] => 10
+    [start_time] => 2026-02-10T15:16
+    [price] => 15
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:22] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:26] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:28] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:40] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 12
+    [movie_id] => 4
+    [start_time] => 2026-02-10T04:16
+    [price] => 16
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:40] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:42] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:44] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:56] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 16
+    [movie_id] => 5
+    [start_time] => 2026-02-10T15:16
+    [price] => 11
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:56] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:12:59] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:13:02] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:13:15] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 16
+    [movie_id] => 8
+    [start_time] => 2026-02-10T15:19
+    [price] => 11
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:13:15] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:13:17] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:13:18] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:13:31] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 13
+    [movie_id] => 2
+    [start_time] => 2026-02-10T13:16
+    [price] => 13
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:13:31] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:13:33] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:13:34] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:13:50] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 14
+    [movie_id] => 1
+    [start_time] => 2026-02-10T22:15
+    [price] => 15
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:13:50] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:13:51] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:13:53] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:14:10] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 15
+    [movie_id] => 3
+    [start_time] => 2026-02-10T18:18
+    [price] => 10
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:14:10] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:14:22] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-10 09:14:22] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 08:38:48] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 08:38:51] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 08:38:55] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 08:40:13] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 08:58:25] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 08:58:26] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 08:59:51] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 08:59:53] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:04:21] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:04:25] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:04:31] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:04:36] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:04:54] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:04:57] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:12:58] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:13:00] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:13:02] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:13:03] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:13:04] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:13:05] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:13:07] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:13:08] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:13:13] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:13:20] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:13:21] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:13:24] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:14:15] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:14:16] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:16:05] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:16:08] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:16:11] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:16:12] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:16:14] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:16:16] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:16:19] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:16:21] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:16:27] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 09:16:28] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 10:29:40] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 10:29:43] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 10:29:43] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 10:29:43] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 10:29:51] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 10:29:52] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 11:50:07] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-11 12:19:28] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 10:15:16] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:26] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:27] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:28] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:28] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:29] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:30] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:30] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:31] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:32] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:36] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:41] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:42] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:42] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:43] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:47] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:47] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:48] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:04:49] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:05:07] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:05:08] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:09:18] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:09:20] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:09:25] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:09:26] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:09:27] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:09:29] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:09:29] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:09:39] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 1
+    [actors] => Array
+        (
+            [0] => 1
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 1. Actors: Array
+(
+    [0] => 1
+)
+
+[2026-02-13 11:09:39] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:09:43] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:09:54] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:09:57] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:09:58] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:09:59] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:10:01] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:10:01] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:10:05] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+
+(
+)
+
+[2026-02-13 11:10:08] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 1
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 1. Actors: Array
+(
+)
+
+[2026-02-13 11:10:08] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:10:10] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:10:10] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:10:40] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 1
+    [actors] => Array
+        (
+            [0] => 1
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 1. Actors: Array
+(
+    [0] => 1
+)
+
+[2026-02-13 11:10:40] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:10:43] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:10:43] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:10:50] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:10:50] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:10:53] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 4
+    [actors] => Array
+        (
+            [0] => 1
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 4. Actors: Array
+(
+    [0] => 1
+)
+
+[2026-02-13 11:10:53] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:10:55] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:10:55] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:10:58] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 5
+    [actors] => Array
+        (
+            [0] => 9
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 5. Actors: Array
+(
+    [0] => 9
+)
+
+[2026-02-13 11:10:58] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:01] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+
+(
+)
+
+[2026-02-13 11:11:07] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+
+(
+)
+
+[2026-02-13 11:11:09] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 9
+    [actors] => Array
+        (
+            [0] => 5
+            [1] => 6
+            [2] => 7
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 9. Actors: Array
+(
+    [0] => 5
+    [1] => 6
+    [2] => 7
+)
+
+[2026-02-13 11:11:09] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:11] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:11] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:13] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 8
+    [actors] => Array
+        (
+            [0] => 3
+            [1] => 4
+            [2] => 5
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 8. Actors: Array
+(
+    [0] => 3
+    [1] => 4
+    [2] => 5
+)
+
+[2026-02-13 11:11:13] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:15] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:15] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:18] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 3
+    [actors] => Array
+        (
+            [0] => 2
+            [1] => 3
+            [2] => 4
+            [3] => 5
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 3. Actors: Array
+(
+    [0] => 2
+    [1] => 3
+    [2] => 4
+    [3] => 5
+)
+
+[2026-02-13 11:11:18] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:20] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:40] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:41] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:42] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:43] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:43] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:45] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 1
+    [actors] => Array
+        (
+            [0] => 1
+            [1] => 5
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 1. Actors: Array
+(
+    [0] => 1
+    [1] => 5
+)
+
+[2026-02-13 11:11:45] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:47] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:47] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:50] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 2
+    [actors] => Array
+        (
+            [0] => 5
+            [1] => 9
+            [2] => 10
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 2. Actors: Array
+(
+    [0] => 5
+    [1] => 9
+    [2] => 10
+)
+
+[2026-02-13 11:11:50] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:52] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:54] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 3
+    [actors] => Array
+        (
+            [0] => 2
+            [1] => 3
+            [2] => 4
+            [3] => 5
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 3. Actors: Array
+(
+    [0] => 2
+    [1] => 3
+    [2] => 4
+    [3] => 5
+)
+
+[2026-02-13 11:11:54] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:55] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:55] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:11:59] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 5
+    [actors] => Array
+        (
+            [0] => 3
+            [1] => 4
+            [2] => 9
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 5. Actors: Array
+(
+    [0] => 3
+    [1] => 4
+    [2] => 9
+)
+
+[2026-02-13 11:11:59] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:12:00] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:12:00] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:12:05] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 6
+    [actors] => Array
+        (
+            [0] => 3
+            [1] => 4
+            [2] => 5
+            [3] => 6
+            [4] => 10
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 6. Actors: Array
+(
+    [0] => 3
+    [1] => 4
+    [2] => 5
+    [3] => 6
+    [4] => 10
+)
+
+[2026-02-13 11:12:05] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:12:06] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:12:11] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 7
+    [actors] => Array
+        (
+            [0] => 3
+            [1] => 7
+            [2] => 8
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 7. Actors: Array
+(
+    [0] => 3
+    [1] => 7
+    [2] => 8
+)
+
+[2026-02-13 11:12:11] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:12:13] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:12:13] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:12:16] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 9
+    [actors] => Array
+        (
+            [0] => 2
+            [1] => 5
+            [2] => 6
+            [3] => 7
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 9. Actors: Array
+(
+    [0] => 2
+    [1] => 5
+    [2] => 6
+    [3] => 7
+)
+
+[2026-02-13 11:12:16] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:12:17] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:12:17] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:12:21] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 4
+    [actors] => Array
+        (
+            [0] => 1
+            [1] => 7
+            [2] => 8
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 4. Actors: Array
+(
+    [0] => 1
+    [1] => 7
+    [2] => 8
+)
+
+[2026-02-13 11:12:21] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:42:50] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:42:51] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:43:00] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:43:02] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:43:02] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:43:03] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:43:03] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:49:32] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:49:37] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:49:38] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:49:40] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:49:40] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:49:45] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:49:47] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:49:47] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 11:49:48] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:22:38] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:22:48] Method: POST Action: create_cinema POST: Array
+(
+    [action] => create_cinema
+    [name] => cine 2
+    [address] => calle4633
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:22:48] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:22:51] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:23:00] Method: POST Action: create_room POST: Array
+(
+    [action] => create_room
+    [cinema_id] => 8
+    [name] => sala 21
+    [capacity] => 50
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:23:03] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:23:05] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:23:10] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:23:18] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:23:19] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:23:21] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:23:36] Method: POST Action: create_showtime POST: Array
+(
+    [action] => create_showtime
+    [room_id] => 18
+    [movie_id] => 4
+    [start_time] => 2026-02-13T15:26
+    [price] => 33
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:23:36] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:23:47] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:23:51] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:23:54] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:23:54] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:23:58] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:23:58] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:24:02] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 4
+    [actors] => Array
+        (
+            [0] => 1
+            [1] => 3
+            [2] => 4
+            [3] => 5
+            [4] => 6
+            [5] => 7
+            [6] => 8
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 4. Actors: Array
+(
+    [0] => 1
+    [1] => 3
+    [2] => 4
+    [3] => 5
+    [4] => 6
+    [5] => 7
+    [6] => 8
+)
+
+[2026-02-13 12:24:02] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:24:04] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-13 12:24:17] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
