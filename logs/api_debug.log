@@ -4324,3 +4324,306 @@ Updating cast for movie 4. Actors: Array
 (
 )
 
+[2026-02-25 11:49:22] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:49:26] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:49:27] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:49:27] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:49:29] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:49:32] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:49:34] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:49:37] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:49:44] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:50:06] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:50:08] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:53:21] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:54:42] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:54:44] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:54:44] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:54:45] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:54:47] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:54:48] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:54:48] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:54:55] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:54:55] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:55:07] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 3
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 3. Actors: Array
+(
+)
+
+[2026-02-25 11:55:07] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:56:39] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:56:46] Method: POST Action: create_actor POST: Array
+(
+    [action] => create_actor
+    [name] => Anne Hathaway
+)
+ FILES: Array
+(
+    [photo] => Array
+        (
+            [name] => 2.jpg
+            [full_path] => 2.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php7945.tmp
+            [error] => 0
+            [size] => 136746
+        )
+
+)
+
+[2026-02-25 11:56:46] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:56:59] Method: POST Action: create_actor POST: Array
+(
+    [action] => create_actor
+    [name] => Matthew McConaughey
+)
+ FILES: Array
+(
+    [photo] => Array
+        (
+            [name] => 1.jpg
+            [full_path] => 1.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpAB33.tmp
+            [error] => 0
+            [size] => 88758
+        )
+
+)
+
+[2026-02-25 11:56:59] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:57:01] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:57:02] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:57:02] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:57:05] Method: GET Action: get_movie_cast POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:57:12] Method: POST Action: update_movie_cast POST: Array
+(
+    [action] => update_movie_cast
+    [movie_id] => 3
+    [actors] => Array
+        (
+            [0] => 11
+            [1] => 12
+        )
+
+)
+ FILES: Array
+(
+)
+
+Updating cast for movie 3. Actors: Array
+(
+    [0] => 11
+    [1] => 12
+)
+
+[2026-02-25 11:57:12] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:58:09] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:58:12] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
+[2026-02-25 11:58:27] Method: GET Action: list_all POST: Array
+(
+)
+ FILES: Array
+(
+)
+
